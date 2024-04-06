@@ -15,7 +15,9 @@
     </p>
     <h4>About me:</h4>
     <p>
-        With over a decade of experience in finance, specializing in Treasury and Credit to Cash, I made the leap into software development. Now, fully committed as a Software Developer, this GitHub serves as a           platform to showcase my projects and ongoing journey in the world of software development. Feel welcome to explore the projects I've worked on..
+        With over a decade of experience in finance, specializing in Treasury and Credit to Cash, I made the leap into software development.
+            </br> Now, fully committed as a Software Developer, this GitHub serves as a platform to showcase my projects and ongoing journey in the world of software development. 
+            </br> Feel welcome to explore the projects I've worked on!. 😊 
     </p>
     <h4>💻 Tech Stack:</h4>
     <p>
