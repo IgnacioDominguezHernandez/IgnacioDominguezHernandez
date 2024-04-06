@@ -1,5 +1,3 @@
-### Hi there, I´m Ignacio 👋
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -7,12 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <div align="center"></div>
+    <h2>Hi there, I´m Ignacio 👋</h2>
     <img src="https://github.com/IgnacioDominguezHernandez/IgnacioDominguezHernandez/assets/165905437/39cce2e5-271f-4ce2-b770-5134cef5e997" alt="bannerGitHub (1)">
         <h3>🌐 Socials:</h3>
     <p>
-        <a href="https://linkedin.com/in/www.linkedin.com/in/ignacio-d-h">
+        <a href="https://linkedin.com/in/www.linkedin.com/in/ignaciodh">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
+    </p>
+    <h3>About me:</h3>
+    <p>After a decade working in finance across international settings, focusing on Credit to Cash and Treasury with SAP, I transitioned to software development, honing my skills in Multiplatform Application             Development. This GitHub repository showcases my path: from school projects to a capstone project and a key coursework assignment. It's a reflection of my journey from leveraging analytical skills in              global finance to applying problem-solving abilities in programming.
     </p>
     <h3>💻 Tech Stack:</h3>
     <p>
@@ -44,6 +47,13 @@
         <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px;">
     </body>
 </html>
+
+
+<!--  -->
+
+<!--  -->
+
+<!--  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
