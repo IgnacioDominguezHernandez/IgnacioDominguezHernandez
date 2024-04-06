@@ -15,7 +15,7 @@
     </p>
     <h4>About me:</h4>
     <p>
-        Transitioning from a decade in finance to software development, I've embraced the challenge of becoming a proficient multiplatform application developer. This GitHub is a showcase of my journey and                 growth, featuring select projects that demonstrate my analytical skills and adaptability to technology. Dive into each to see how I've applied my problem-solving abilities from finance to programming,             paving my way towards a developer role.
+        With over a decade of experience in finance, specializing in Treasury and Credit to Cash, I made the leap into software development. Now, fully committed as a Software Developer, this GitHub serves as a           platform to showcase my projects and ongoing journey in the world of software development. Feel welcome to explore the projects I've worked on..
     </p>
     <h4>💻 Tech Stack:</h4>
     <p>
