@@ -37,14 +37,16 @@
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
     </p>
-    <h4>📊 GitHub Stats:</h4>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioDominguezHernandez&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top                 Languages">
+<h4>📊 GitHub Stats:</h4>
+<div align="center">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciodh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </p>
-    <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=IgnacioDominguezHernandez&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgnacioDominguezHernandez&theme=dark&hide_border=true" alt="GitHub Streaks" height="150">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=ignaciodh&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignaciodh&theme=default&hide_border=false" alt="GitHub Streak Stats">
     </p>
+</div>
     </body>
 </html>
 
