@@ -9,7 +9,7 @@
     <h3>Hi there, I´m Ignacio 👋</h3>
         <h4>🌐 Socials:</h4>
     <p>
-        <a href="https://linkedin.com/in/www.linkedin.com/in/ignaciodh">
+        <a href="https:www.linkedin.com/in/ignaciodh">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
     </p>
