@@ -40,11 +40,11 @@
 <h4>📊 GitHub Stats:</h4>
 <div align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciodh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciodh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=ignaciodh&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignaciodh&theme=default&hide_border=false" alt="GitHub Streak Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ignaciodh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: auto; width: 49%;" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignaciodh&theme=dark&hide_border=false" style="height: auto; width: 49%;" alt="GitHub Streak Stats">
     </p>
 </div>
     </body>
